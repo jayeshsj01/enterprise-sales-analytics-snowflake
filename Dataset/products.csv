@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Brand,UnitPrice,CostPrice,Supplier,IsActive
+1,Tablet,Electronics,Samsung,163.26,130.0,Supplier_7,True
+2,Football,Sports,Nike,31.67,24.6,Supplier_33,True
+3,Yoga Mat,Sports,Cosco,297.4,215.56,Supplier_18,True
+4,Jacket,Fashion,Levi's,187.98,146.16,Supplier_49,True
+5,Monitor,Electronics,Samsung,88.32,57.39,Supplier_39,True
+6,Smart Watch,Electronics,Dell,111.64,71.16,Supplier_6,True
+7,Yoga Mat,Sports,Nivia,127.96,104.22,Supplier_43,True
+8,Pressure Cooker,Home & Kitchen,Prestige,587.57,434.58,Supplier_30,True
+9,Jacket,Fashion,Puma,147.22,112.66,Supplier_44,True
+10,Yoga Mat,Sports,Cosco,464.73,367.27,Supplier_25,True
+11,Badminton Racket,Sports,Cosco,638.9,423.0,Supplier_15,True
+12,Microwave,Home & Kitchen,Hawkins,66.41,42.43,Supplier_37,True
+13,Sneakers,Fashion,Levi's,646.23,443.49,Supplier_10,True
+14,Hoodie,Fashion,Adidas,410.82,274.1,Supplier_28,False
+15,Pressure Cooker,Home & Kitchen,Philips,321.05,259.67,Supplier_4,True
+16,Sneakers,Fashion,Adidas,409.2,302.24,Supplier_39,False
+17,Yoga Mat,Sports,Nivia,520.12,431.78,Supplier_47,True
+18,Badminton Racket,Sports,Nivia,88.84,64.66,Supplier_30,True
+19,Pressure Cooker,Home & Kitchen,LG,321.53,258.76,Supplier_41,True
+20,Cricket Bat,Sports,Adidas,127.76,84.89,Supplier_35,True
+21,Gym Bag,Sports,Nivia,30.71,19.54,Supplier_20,True
+22,Smart Watch,Electronics,Apple,585.05,474.01,Supplier_32,True
+23,Cricket Bat,Sports,Cosco,526.16,333.28,Supplier_11,True
+24,Gym Bag,Sports,Adidas,758.34,482.54,Supplier_49,True
+25,Microwave,Home & Kitchen,Hawkins,316.12,224.67,Supplier_8,True
+26,Jacket,Fashion,Nike,28.87,20.31,Supplier_38,True
+27,Laptop,Electronics,Samsung,190.87,122.18,Supplier_22,True
+28,Badminton Racket,Sports,Cosco,434.31,337.8,Supplier_9,False
+29,Sneakers,Fashion,Levi's,127.97,103.3,Supplier_28,True
+30,Moisturizer,Beauty,Nivea,529.32,433.28,Supplier_42,True
+31,Tablet,Electronics,Dell,500.33,402.29,Supplier_13,True
+32,Cricket Bat,Sports,Nike,284.21,216.72,Supplier_16,True
+33,Face Wash,Beauty,Maybelline,55.65,34.79,Supplier_1,True
+34,Sneakers,Fashion,Adidas,318.75,247.96,Supplier_26,True
+35,T-Shirt,Fashion,Levi's,643.64,492.8,Supplier_30,True
+36,Moisturizer,Beauty,Maybelline,113.21,85.85,Supplier_4,True
+37,Mixer,Home & Kitchen,Prestige,415.09,296.25,Supplier_34,True
+38,Laptop,Electronics,HP,524.3,427.16,Supplier_5,True
+39,Lipstick,Beauty,Lakme,187.85,130.65,Supplier_40,True
+40,Lipstick,Beauty,Maybelline,418.9,266.16,Supplier_14,True
+41,Sneakers,Fashion,Puma,108.1,74.13,Supplier_30,True
+42,Monitor,Electronics,Samsung,448.04,314.37,Supplier_7,True
+43,Yoga Mat,Sports,Cosco,220.18,139.95,Supplier_5,True
+44,Pressure Cooker,Home & Kitchen,Bajaj,318.48,224.71,Supplier_20,True
+45,Football,Sports,Nivia,589.35,470.08,Supplier_8,True
+46,Badminton Racket,Sports,Cosco,190.15,148.06,Supplier_22,True
+47,Cookware Set,Home & Kitchen,LG,207.99,133.05,Supplier_4,True
+48,Face Wash,Beauty,Mamaearth,17.71,11.74,Supplier_41,True
+49,Hoodie,Fashion,Levi's,506.76,355.78,Supplier_8,True
+50,T-Shirt,Fashion,Zara,600.36,418.95,Supplier_10,False
+51,Jacket,Fashion,Nike,296.84,188.68,Supplier_3,True
+52,T-Shirt,Fashion,Adidas,261.01,183.3,Supplier_27,True
+53,Jeans,Fashion,Adidas,534.65,441.89,Supplier_48,True
+54,Serum,Beauty,L'Oreal,130.3,88.01,Supplier_25,True
+55,Shampoo,Beauty,L'Oreal,567.67,410.13,Supplier_20,True
+56,Jeans,Fashion,Nike,269.17,205.25,Supplier_5,True
+57,Cookware Set,Home & Kitchen,LG,527.29,342.96,Supplier_22,True
+58,Smartphone,Electronics,Sony,469.25,294.49,Supplier_3,True
+59,Badminton Racket,Sports,Nike,486.43,366.99,Supplier_39,True
+60,Shampoo,Beauty,Maybelline,199.99,134.81,Supplier_1,True
+61,Mixer,Home & Kitchen,Hawkins,744.87,474.95,Supplier_40,True
+62,Smart Watch,Electronics,Sony,220.25,161.55,Supplier_26,True
+63,Cricket Bat,Sports,Cosco,340.48,216.02,Supplier_44,True
+64,Badminton Racket,Sports,Adidas,320.47,208.98,Supplier_20,True
+65,Hoodie,Fashion,Levi's,408.32,307.26,Supplier_29,False
+66,Sneakers,Fashion,Zara,631.88,398.93,Supplier_48,True
+67,Smart Watch,Electronics,Sony,485.4,335.29,Supplier_6,True
+68,Pressure Cooker,Home & Kitchen,Philips,100.16,82.2,Supplier_31,True
+69,Lipstick,Beauty,Nivea,155.65,105.27,Supplier_32,False
+70,T-Shirt,Fashion,Adidas,690.86,447.4,Supplier_7,False
+71,Hoodie,Fashion,Adidas,338.14,237.63,Supplier_8,False
+72,Hoodie,Fashion,Levi's,710.56,494.07,Supplier_49,False
+73,Gym Bag,Sports,Adidas,591.76,416.98,Supplier_11,False
+74,Shampoo,Beauty,Mamaearth,552.59,421.53,Supplier_50,False
+75,Sneakers,Fashion,Puma,63.05,47.97,Supplier_18,True
+76,Mixer,Home & Kitchen,LG,100.56,77.8,Supplier_45,True
+77,Sneakers,Fashion,Nike,297.18,209.72,Supplier_27,True
+78,Sneakers,Fashion,Levi's,649.97,453.37,Supplier_45,True
+79,Gym Bag,Sports,Nike,17.28,12.89,Supplier_49,False
+80,Lipstick,Beauty,Maybelline,626.67,401.94,Supplier_32,True
+81,Cookware Set,Home & Kitchen,Hawkins,32.32,24.22,Supplier_44,False
+82,Jeans,Fashion,Levi's,693.47,490.55,Supplier_26,True
+83,Smartphone,Electronics,Dell,553.32,434.76,Supplier_17,False
+84,Cookware Set,Home & Kitchen,Philips,255.99,170.15,Supplier_25,True
+85,Face Wash,Beauty,Mamaearth,360.58,240.45,Supplier_4,True
+86,T-Shirt,Fashion,Nike,599.66,379.57,Supplier_13,True
+87,Cricket Bat,Sports,Cosco,105.46,71.85,Supplier_37,True
+88,Serum,Beauty,Mamaearth,133.06,92.22,Supplier_48,True
+89,T-Shirt,Fashion,Puma,461.35,293.56,Supplier_37,False
+90,Face Wash,Beauty,L'Oreal,459.87,300.13,Supplier_16,True
+91,Mixer,Home & Kitchen,LG,570.76,400.15,Supplier_3,True
+92,Badminton Racket,Sports,Nike,63.89,43.79,Supplier_1,False
+93,Moisturizer,Beauty,Lakme,699.18,480.79,Supplier_30,True
+94,Lipstick,Beauty,L'Oreal,631.88,483.08,Supplier_35,False
+95,Lipstick,Beauty,Nivea,218.02,141.51,Supplier_6,True
+96,Moisturizer,Beauty,L'Oreal,424.38,289.23,Supplier_22,True
+97,Shampoo,Beauty,Mamaearth,334.01,248.9,Supplier_17,True
+98,Microwave,Home & Kitchen,LG,397.15,282.34,Supplier_13,True
+99,Sneakers,Fashion,Levi's,365.56,282.04,Supplier_31,False
+100,Face Wash,Beauty,Lakme,209.96,154.18,Supplier_16,True
+101,Gym Bag,Sports,Nivia,376.11,281.2,Supplier_48,True
+102,Microwave,Home & Kitchen,Hawkins,207.08,160.25,Supplier_47,True
+103,Air Fryer,Home & Kitchen,Prestige,702.5,475.93,Supplier_13,True
+104,Lipstick,Beauty,Mamaearth,688.77,488.54,Supplier_19,True
+105,Jeans,Fashion,Puma,246.79,186.83,Supplier_46,True
+106,Mixer,Home & Kitchen,Prestige,415.81,281.15,Supplier_9,False
+107,Smart Watch,Electronics,Samsung,207.79,149.33,Supplier_22,True
+108,Monitor,Electronics,Sony,80.8,65.9,Supplier_32,True
+109,Cricket Bat,Sports,Yonex,118.44,83.11,Supplier_20,True
+110,Hoodie,Fashion,Nike,554.77,384.58,Supplier_40,True
+111,Gym Bag,Sports,Nike,600.34,455.17,Supplier_38,False
+112,Air Fryer,Home & Kitchen,LG,62.59,39.51,Supplier_7,True
+113,T-Shirt,Fashion,Puma,110.4,86.96,Supplier_5,True
+114,Monitor,Electronics,Dell,482.72,347.79,Supplier_3,True
+115,Cookware Set,Home & Kitchen,Bajaj,58.05,44.88,Supplier_17,True
+116,Lipstick,Beauty,Lakme,151.35,120.16,Supplier_18,True
+117,Smartphone,Electronics,Samsung,572.89,398.39,Supplier_37,True
+118,Moisturizer,Beauty,Lakme,514.19,347.45,Supplier_18,False
+119,Lipstick,Beauty,Lakme,40.54,29.53,Supplier_21,True
+120,Smartphone,Electronics,Samsung,738.56,481.34,Supplier_37,True
+121,Mixer,Home & Kitchen,LG,487.61,383.92,Supplier_34,False
+122,Air Fryer,Home & Kitchen,Philips,341.12,223.58,Supplier_6,False
+123,Microwave,Home & Kitchen,Hawkins,207.78,167.32,Supplier_11,True
+124,Serum,Beauty,Nivea,455.21,334.67,Supplier_49,True
+125,Serum,Beauty,Lakme,166.61,133.68,Supplier_50,False
+126,Yoga Mat,Sports,Yonex,288.77,236.37,Supplier_34,True
+127,Gym Bag,Sports,Nike,490.02,382.4,Supplier_36,True
+128,Cookware Set,Home & Kitchen,Hawkins,110.45,69.5,Supplier_39,True
+129,Hoodie,Fashion,Puma,22.77,16.7,Supplier_15,True
+130,Shampoo,Beauty,Lakme,377.9,254.2,Supplier_33,True
+131,Moisturizer,Beauty,Nivea,183.86,129.43,Supplier_25,True
+132,Cricket Bat,Sports,Adidas,567.93,433.37,Supplier_27,True
+133,Football,Sports,Nivia,196.05,148.59,Supplier_38,False
+134,Hoodie,Fashion,Levi's,329.68,247.33,Supplier_49,False
+135,Shampoo,Beauty,Mamaearth,635.56,490.58,Supplier_25,True
+136,Serum,Beauty,Lakme,555.65,374.91,Supplier_25,False
+137,T-Shirt,Fashion,Levi's,113.98,71.86,Supplier_22,True
+138,Lipstick,Beauty,Lakme,550.14,456.12,Supplier_10,False
+139,Sneakers,Fashion,Nike,513.2,392.95,Supplier_40,False
+140,Smart Watch,Electronics,Sony,260.29,196.2,Supplier_46,False
+141,Yoga Mat,Sports,Yonex,63.23,43.53,Supplier_19,True
+142,Laptop,Electronics,Dell,566.81,382.58,Supplier_7,False
+143,T-Shirt,Fashion,Puma,49.41,32.54,Supplier_19,True
+144,Pressure Cooker,Home & Kitchen,Hawkins,176.96,129.66,Supplier_44,True
+145,T-Shirt,Fashion,Adidas,417.61,308.65,Supplier_44,True
+146,Shampoo,Beauty,Maybelline,180.11,123.77,Supplier_30,True
+147,Tablet,Electronics,Dell,432.05,342.03,Supplier_29,True
+148,Gym Bag,Sports,Nivia,481.54,348.25,Supplier_20,True
+149,Face Wash,Beauty,Nivea,180.35,126.23,Supplier_37,True
+150,Cookware Set,Home & Kitchen,Prestige,206.11,144.5,Supplier_44,True
+151,Badminton Racket,Sports,Nike,504.04,390.11,Supplier_23,True
+152,Jacket,Fashion,Zara,509.17,342.1,Supplier_43,True
+153,Tablet,Electronics,Samsung,480.99,396.42,Supplier_24,True
+154,Tablet,Electronics,Sony,477.96,376.27,Supplier_9,True
+155,Badminton Racket,Sports,Adidas,543.17,416.93,Supplier_31,True
+156,Cookware Set,Home & Kitchen,Prestige,605.31,481.82,Supplier_15,False
+157,Football,Sports,Nivia,479.13,397.43,Supplier_35,True
+158,Serum,Beauty,Mamaearth,453.23,296.43,Supplier_24,True
+159,T-Shirt,Fashion,Levi's,494.6,313.58,Supplier_21,True
+160,Tablet,Electronics,Dell,409.07,328.13,Supplier_3,True
+161,Mixer,Home & Kitchen,Hawkins,89.59,57.62,Supplier_9,False
+162,Lipstick,Beauty,Mamaearth,322.39,215.37,Supplier_10,False
+163,Smart Watch,Electronics,Dell,331.9,209.98,Supplier_3,True
+164,Sneakers,Fashion,Levi's,733.72,475.77,Supplier_7,True
+165,Football,Sports,Nivia,261.68,205.09,Supplier_8,False
+166,Smart Watch,Electronics,Apple,592.84,485.84,Supplier_22,True
+167,Jeans,Fashion,Zara,65.69,43.62,Supplier_14,True
+168,Jeans,Fashion,Puma,570.24,396.44,Supplier_18,True
+169,Jacket,Fashion,Zara,499.17,401.27,Supplier_2,True
+170,Smartphone,Electronics,Sony,360.13,298.54,Supplier_17,True
+171,Hoodie,Fashion,Levi's,80.5,65.69,Supplier_29,True
+172,Football,Sports,Adidas,298.29,231.48,Supplier_40,True
+173,Gym Bag,Sports,Nivia,394.34,325.24,Supplier_31,False
+174,Moisturizer,Beauty,Lakme,494.61,359.08,Supplier_6,True
+175,Football,Sports,Cosco,104.13,71.83,Supplier_38,True
+176,Lipstick,Beauty,Maybelline,216.64,154.5,Supplier_28,True
+177,Smartphone,Electronics,HP,343.29,220.73,Supplier_27,True
+178,Moisturizer,Beauty,Nivea,486.96,367.51,Supplier_21,True
+179,Cookware Set,Home & Kitchen,Philips,65.75,42.9,Supplier_6,False
+180,Smartphone,Electronics,Sony,405.44,282.62,Supplier_36,True
+181,Tablet,Electronics,Dell,690.6,438.07,Supplier_28,True
+182,Microwave,Home & Kitchen,LG,260.92,182.31,Supplier_14,True
+183,Face Wash,Beauty,L'Oreal,258.27,181.56,Supplier_8,True
+184,Gym Bag,Sports,Cosco,674.29,424.13,Supplier_40,True
+185,Football,Sports,Nivia,145.74,98.4,Supplier_20,True
+186,Pressure Cooker,Home & Kitchen,Prestige,622.29,436.23,Supplier_26,True
+187,T-Shirt,Fashion,Nike,483.03,375.59,Supplier_27,False
+188,Microwave,Home & Kitchen,Philips,216.35,162.7,Supplier_37,True
+189,Smartphone,Electronics,Apple,463.16,379.67,Supplier_6,True
+190,Moisturizer,Beauty,Nivea,419.9,307.47,Supplier_14,True
+191,Mixer,Home & Kitchen,Hawkins,218.93,148.79,Supplier_32,True
+192,Monitor,Electronics,Apple,601.65,492.38,Supplier_14,True
+193,Jacket,Fashion,Adidas,189.48,151.83,Supplier_32,False
+194,Sneakers,Fashion,Adidas,350.11,270.97,Supplier_36,True
+195,Laptop,Electronics,Dell,309.65,223.75,Supplier_5,True
+196,Yoga Mat,Sports,Nike,303.11,208.17,Supplier_19,True
+197,Serum,Beauty,Lakme,148.78,94.22,Supplier_30,True
+198,Laptop,Electronics,Dell,185.52,129.23,Supplier_34,True
+199,Serum,Beauty,Mamaearth,179.24,118.57,Supplier_5,True
+200,Cricket Bat,Sports,Adidas,608.11,453.9,Supplier_47,True
+201,Jeans,Fashion,Nike,171.9,135.42,Supplier_10,True
+202,Sneakers,Fashion,Levi's,571.02,379.68,Supplier_29,True
+203,Cookware Set,Home & Kitchen,Philips,59.84,43.46,Supplier_20,True
+204,Badminton Racket,Sports,Yonex,342.43,258.6,Supplier_29,True
+205,Tablet,Electronics,Sony,73.58,47.6,Supplier_6,False
+206,Lipstick,Beauty,Maybelline,714.24,477.57,Supplier_3,False
+207,Badminton Racket,Sports,Cosco,429.2,306.45,Supplier_4,False
+208,Laptop,Electronics,Sony,326.43,257.23,Supplier_16,False
+209,Lipstick,Beauty,Maybelline,415.51,308.8,Supplier_19,False
+210,Lipstick,Beauty,Mamaearth,51.79,35.66,Supplier_22,True
+211,Air Fryer,Home & Kitchen,Prestige,449.81,342.41,Supplier_47,True
+212,Air Fryer,Home & Kitchen,Prestige,525.11,335.17,Supplier_20,False
+213,T-Shirt,Fashion,Zara,218.4,161.7,Supplier_22,True
+214,Gym Bag,Sports,Yonex,312.88,259.16,Supplier_20,True
+215,Sneakers,Fashion,Puma,166.53,104.08,Supplier_10,True
+216,Air Fryer,Home & Kitchen,Prestige,594.8,387.73,Supplier_34,True
+217,Pressure Cooker,Home & Kitchen,LG,381.85,302.65,Supplier_12,True
+218,Moisturizer,Beauty,Lakme,280.47,188.51,Supplier_29,True
+219,Lipstick,Beauty,L'Oreal,201.75,127.19,Supplier_31,True
+220,Cookware Set,Home & Kitchen,LG,310.09,236.22,Supplier_25,False
+221,Hoodie,Fashion,Adidas,101.17,77.82,Supplier_42,False
+222,Mixer,Home & Kitchen,LG,504.31,358.59,Supplier_8,True
+223,Tablet,Electronics,Apple,323.47,230.17,Supplier_28,True
+224,Jacket,Fashion,Levi's,636.44,465.93,Supplier_26,True
+225,T-Shirt,Fashion,Levi's,234.64,193.71,Supplier_7,True
+226,T-Shirt,Fashion,Adidas,230.66,150.57,Supplier_45,True
+227,Lipstick,Beauty,Nivea,15.48,12.57,Supplier_17,True
+228,Hoodie,Fashion,Zara,334.28,268.61,Supplier_19,True
+229,Mixer,Home & Kitchen,Prestige,184.63,126.84,Supplier_40,False
+230,Monitor,Electronics,Samsung,364.87,302.4,Supplier_33,True
+231,Sneakers,Fashion,Puma,14.44,10.77,Supplier_37,False
+232,Hoodie,Fashion,Nike,598.3,487.58,Supplier_34,True
+233,Face Wash,Beauty,Nivea,511.93,321.48,Supplier_17,True
+234,Microwave,Home & Kitchen,Prestige,187.46,128.15,Supplier_7,True
+235,Jacket,Fashion,Nike,423.38,277.55,Supplier_12,False
+236,Shampoo,Beauty,L'Oreal,61.81,40.92,Supplier_30,True
+237,Mixer,Home & Kitchen,Philips,618.06,397.64,Supplier_21,True
+238,Yoga Mat,Sports,Nike,293.91,241.97,Supplier_42,True
+239,Mixer,Home & Kitchen,Bajaj,578.74,434.24,Supplier_8,True
+240,Moisturizer,Beauty,Nivea,607.39,448.37,Supplier_12,False
+241,Lipstick,Beauty,Mamaearth,173.48,140.69,Supplier_28,True
+242,Shampoo,Beauty,Maybelline,368.36,277.28,Supplier_6,True
+243,Cookware Set,Home & Kitchen,Bajaj,418.37,305.28,Supplier_45,False
+244,Mixer,Home & Kitchen,Hawkins,572.88,366.14,Supplier_40,False
+245,Mixer,Home & Kitchen,Prestige,461.72,338.88,Supplier_33,True
+246,Smart Watch,Electronics,Apple,470.7,342.26,Supplier_9,True
+247,Jacket,Fashion,Puma,281.96,197.6,Supplier_39,True
+248,Serum,Beauty,Mamaearth,280.03,227.53,Supplier_9,True
+249,Serum,Beauty,Mamaearth,164.78,132.31,Supplier_48,True
+250,Moisturizer,Beauty,Maybelline,570.72,457.64,Supplier_50,True
+251,Lipstick,Beauty,L'Oreal,234.88,149.93,Supplier_32,True
+252,Laptop,Electronics,Apple,361.02,231.5,Supplier_29,True
+253,Mixer,Home & Kitchen,Bajaj,367.86,279.5,Supplier_20,True
+254,Hoodie,Fashion,Puma,191.1,119.88,Supplier_9,True
+255,Serum,Beauty,Lakme,379.3,281.47,Supplier_36,True
+256,Football,Sports,Yonex,258.45,161.55,Supplier_47,False
+257,Gym Bag,Sports,Nike,508.32,413.44,Supplier_21,True
+258,Lipstick,Beauty,Nivea,277.37,178.81,Supplier_50,True
+259,Hoodie,Fashion,Levi's,557.61,456.25,Supplier_8,True
+260,Pressure Cooker,Home & Kitchen,Philips,249.42,168.1,Supplier_23,True
+261,Smartphone,Electronics,Sony,456.18,321.18,Supplier_9,True
+262,Football,Sports,Adidas,324.8,256.26,Supplier_38,True
+263,Hoodie,Fashion,Zara,275.35,175.43,Supplier_3,True
+264,Smart Watch,Electronics,Samsung,179.39,139.68,Supplier_37,False
+265,Gym Bag,Sports,Yonex,631.98,445.61,Supplier_42,True
+266,Moisturizer,Beauty,L'Oreal,191.43,155.74,Supplier_4,True
+267,Moisturizer,Beauty,Nivea,317.43,237.58,Supplier_10,True
+268,Cookware Set,Home & Kitchen,Bajaj,99.88,74.08,Supplier_36,True
+269,Cookware Set,Home & Kitchen,Philips,96.64,70.04,Supplier_10,True
+270,Monitor,Electronics,Sony,592.62,433.44,Supplier_11,True
+271,Cricket Bat,Sports,Nivia,537.24,383.93,Supplier_33,False
+272,Moisturizer,Beauty,Mamaearth,33.71,21.36,Supplier_33,False
+273,Hoodie,Fashion,Adidas,223.2,182.92,Supplier_32,False
+274,Mixer,Home & Kitchen,LG,583.41,425.11,Supplier_17,True
+275,Face Wash,Beauty,Mamaearth,294.59,206.28,Supplier_13,True
+276,Football,Sports,Nivia,275.08,199.31,Supplier_36,True
+277,Football,Sports,Adidas,90.49,73.05,Supplier_24,True
+278,Cricket Bat,Sports,Nivia,150.95,107.54,Supplier_33,True
+279,Smartphone,Electronics,Samsung,547.25,359.66,Supplier_34,False
+280,Hoodie,Fashion,Zara,123.43,78.49,Supplier_21,True
+281,Serum,Beauty,Maybelline,422.18,300.93,Supplier_33,False
+282,Gym Bag,Sports,Nivia,552.03,409.72,Supplier_44,True
+283,Serum,Beauty,Maybelline,596.66,400.41,Supplier_45,True
+284,Badminton Racket,Sports,Nike,732.16,483.86,Supplier_50,True
+285,Monitor,Electronics,HP,135.8,93.55,Supplier_40,False
+286,T-Shirt,Fashion,Adidas,430.09,290.56,Supplier_13,True
+287,Moisturizer,Beauty,Mamaearth,124.3,84.2,Supplier_27,False
+288,Smart Watch,Electronics,Apple,148.43,111.6,Supplier_43,False
+289,Badminton Racket,Sports,Nike,662.57,478.78,Supplier_35,True
+290,Badminton Racket,Sports,Nivia,394.49,308.94,Supplier_16,True
+291,Cricket Bat,Sports,Nivia,750.78,471.33,Supplier_50,True
+292,Jacket,Fashion,Levi's,349.07,245.1,Supplier_47,True
+293,Air Fryer,Home & Kitchen,Prestige,461.72,341.54,Supplier_26,True
+294,T-Shirt,Fashion,Puma,224.24,150.94,Supplier_23,False
+295,Pressure Cooker,Home & Kitchen,Hawkins,154.3,109.01,Supplier_36,True
+296,Hoodie,Fashion,Nike,483.35,373.04,Supplier_4,True
+297,T-Shirt,Fashion,Nike,316.01,212.52,Supplier_7,True
+298,Smartphone,Electronics,HP,329.57,209.38,Supplier_31,False
+299,Jacket,Fashion,Puma,183.37,149.85,Supplier_50,True
+300,Yoga Mat,Sports,Cosco,572.87,371.96,Supplier_3,True
+301,Face Wash,Beauty,L'Oreal,677.51,498.61,Supplier_32,True
+302,Mixer,Home & Kitchen,Prestige,225.12,156.21,Supplier_22,True
+303,Lipstick,Beauty,Maybelline,397.04,252.02,Supplier_33,False
+304,Mixer,Home & Kitchen,Philips,256.76,172.04,Supplier_42,True
+305,Jacket,Fashion,Nike,567.25,397.48,Supplier_49,True
+306,Sneakers,Fashion,Zara,583.86,415.23,Supplier_6,False
+307,Smartphone,Electronics,Apple,384.06,243.95,Supplier_1,True
+308,Moisturizer,Beauty,L'Oreal,599.97,379.34,Supplier_20,True
+309,Pressure Cooker,Home & Kitchen,Bajaj,50.44,40.44,Supplier_20,True
+310,Serum,Beauty,Maybelline,506.86,348.24,Supplier_19,True
+311,Cricket Bat,Sports,Cosco,666.57,479.11,Supplier_30,True
+312,Moisturizer,Beauty,Maybelline,579.58,381.1,Supplier_14,True
+313,Yoga Mat,Sports,Yonex,339.13,228.91,Supplier_5,True
+314,Smart Watch,Electronics,HP,154.28,109.06,Supplier_11,True
+315,Football,Sports,Nike,510.47,343.34,Supplier_32,True
+316,Football,Sports,Nike,326.28,232.18,Supplier_30,True
+317,Badminton Racket,Sports,Nike,495.01,364.41,Supplier_1,True
+318,Football,Sports,Yonex,322.1,217.61,Supplier_35,True
+319,Laptop,Electronics,Dell,191.65,150.67,Supplier_9,False
+320,Cookware Set,Home & Kitchen,Hawkins,681.51,436.11,Supplier_25,True
+321,Badminton Racket,Sports,Cosco,108.81,68.13,Supplier_26,True
+322,T-Shirt,Fashion,Nike,678.0,489.46,Supplier_47,False
+323,Cricket Bat,Sports,Nike,175.71,131.28,Supplier_18,True
+324,Monitor,Electronics,Samsung,490.16,311.31,Supplier_2,True
+325,T-Shirt,Fashion,Nike,414.99,301.03,Supplier_44,True
+326,Sneakers,Fashion,Nike,318.71,225.09,Supplier_49,True
+327,Jacket,Fashion,Zara,195.41,124.74,Supplier_37,True
+328,Badminton Racket,Sports,Adidas,195.49,126.08,Supplier_43,True
+329,Serum,Beauty,Mamaearth,62.97,39.87,Supplier_48,True
+330,Moisturizer,Beauty,Maybelline,44.11,32.97,Supplier_42,False
+331,Gym Bag,Sports,Nivia,277.26,210.05,Supplier_12,False
+332,Jacket,Fashion,Adidas,541.08,430.2,Supplier_30,True
+333,Gym Bag,Sports,Nike,354.87,283.07,Supplier_16,True
+334,T-Shirt,Fashion,Puma,710.78,461.89,Supplier_6,True
+335,Monitor,Electronics,Sony,490.14,340.1,Supplier_5,True
+336,Cricket Bat,Sports,Adidas,379.05,244.9,Supplier_22,True
+337,Smartphone,Electronics,Apple,600.3,481.42,Supplier_49,False
+338,Jeans,Fashion,Zara,264.78,204.35,Supplier_21,True
+339,Lipstick,Beauty,Nivea,433.89,327.87,Supplier_24,False
+340,Moisturizer,Beauty,Lakme,508.93,383.2,Supplier_14,True
+341,Mixer,Home & Kitchen,Hawkins,368.05,285.64,Supplier_10,True
+342,Air Fryer,Home & Kitchen,LG,401.61,293.78,Supplier_10,True
+343,Cookware Set,Home & Kitchen,Philips,375.47,289.2,Supplier_36,True
+344,Cookware Set,Home & Kitchen,Hawkins,352.09,235.81,Supplier_23,True
+345,Sneakers,Fashion,Zara,155.85,100.18,Supplier_42,True
+346,Football,Sports,Yonex,694.23,473.14,Supplier_49,True
+347,Shampoo,Beauty,L'Oreal,54.58,43.3,Supplier_14,False
+348,Air Fryer,Home & Kitchen,Prestige,507.46,322.49,Supplier_31,False
+349,Smart Watch,Electronics,Samsung,337.7,280.31,Supplier_34,True
+350,Football,Sports,Nivia,378.79,256.09,Supplier_28,True
+351,Smart Watch,Electronics,Samsung,105.92,82.96,Supplier_34,True
+352,Cookware Set,Home & Kitchen,Bajaj,77.16,48.72,Supplier_30,True
+353,T-Shirt,Fashion,Puma,509.79,330.33,Supplier_49,True
+354,Monitor,Electronics,Dell,270.86,194.81,Supplier_41,True
+355,Sneakers,Fashion,Nike,618.48,424.21,Supplier_22,True
+356,Cricket Bat,Sports,Yonex,175.75,113.59,Supplier_37,False
+357,Mixer,Home & Kitchen,Prestige,453.18,345.37,Supplier_35,True
+358,T-Shirt,Fashion,Puma,690.32,481.12,Supplier_49,False
+359,Smartphone,Electronics,Sony,408.52,286.34,Supplier_25,True
+360,Face Wash,Beauty,L'Oreal,406.0,255.39,Supplier_4,True
+361,Face Wash,Beauty,L'Oreal,266.68,176.89,Supplier_39,False
+362,Microwave,Home & Kitchen,Prestige,543.72,393.94,Supplier_15,True
+363,Gym Bag,Sports,Nike,144.88,101.01,Supplier_25,True
+364,Cricket Bat,Sports,Nivia,443.1,359.42,Supplier_10,False
+365,Jacket,Fashion,Levi's,230.92,186.74,Supplier_20,False
+366,Mixer,Home & Kitchen,Bajaj,95.53,74.93,Supplier_29,False
+367,Laptop,Electronics,Samsung,226.93,183.42,Supplier_39,True
+368,Serum,Beauty,Lakme,321.64,212.77,Supplier_47,True
+369,Cricket Bat,Sports,Adidas,438.41,345.8,Supplier_18,True
+370,Pressure Cooker,Home & Kitchen,Hawkins,56.33,41.0,Supplier_27,True
+371,Serum,Beauty,Lakme,173.15,133.33,Supplier_41,False
+372,Cricket Bat,Sports,Adidas,293.92,234.35,Supplier_1,False
+373,Cookware Set,Home & Kitchen,LG,538.05,404.0,Supplier_22,False
+374,Badminton Racket,Sports,Cosco,263.88,167.13,Supplier_13,False
+375,Cookware Set,Home & Kitchen,Philips,638.12,484.68,Supplier_45,False
+376,Badminton Racket,Sports,Cosco,296.57,194.27,Supplier_26,True
+377,Smartphone,Electronics,HP,425.74,300.19,Supplier_44,True
+378,Moisturizer,Beauty,L'Oreal,614.34,400.87,Supplier_5,False
+379,Serum,Beauty,L'Oreal,188.19,128.59,Supplier_46,False
+380,Moisturizer,Beauty,Lakme,689.5,495.44,Supplier_26,False
+381,Badminton Racket,Sports,Yonex,539.52,353.8,Supplier_39,True
+382,Tablet,Electronics,Apple,132.24,91.51,Supplier_37,False
+383,Mixer,Home & Kitchen,Hawkins,19.77,15.17,Supplier_33,True
+384,Moisturizer,Beauty,Mamaearth,348.67,236.9,Supplier_45,True
+385,Cookware Set,Home & Kitchen,Prestige,83.66,61.23,Supplier_6,True
+386,Jacket,Fashion,Puma,269.59,178.1,Supplier_34,False
+387,Mixer,Home & Kitchen,Hawkins,332.27,224.7,Supplier_21,True
+388,Mixer,Home & Kitchen,Prestige,28.18,21.07,Supplier_7,True
+389,Jeans,Fashion,Zara,373.66,280.44,Supplier_28,False
+390,Jeans,Fashion,Levi's,148.24,101.33,Supplier_26,True
+391,Gym Bag,Sports,Cosco,406.9,300.18,Supplier_46,True
+392,T-Shirt,Fashion,Puma,445.15,292.9,Supplier_35,True
+393,Pressure Cooker,Home & Kitchen,Bajaj,305.62,234.2,Supplier_32,True
+394,Yoga Mat,Sports,Nike,252.07,202.35,Supplier_23,False
+395,Badminton Racket,Sports,Cosco,660.81,460.15,Supplier_44,True
+396,Pressure Cooker,Home & Kitchen,Prestige,203.26,159.64,Supplier_45,True
+397,Gym Bag,Sports,Nike,432.19,302.25,Supplier_28,True
+398,Shampoo,Beauty,Maybelline,393.51,281.91,Supplier_9,True
+399,Air Fryer,Home & Kitchen,Hawkins,48.73,36.27,Supplier_1,False
+400,Sneakers,Fashion,Adidas,676.24,482.28,Supplier_32,False
+401,Moisturizer,Beauty,Nivea,307.6,249.46,Supplier_2,True
+402,Microwave,Home & Kitchen,Prestige,158.08,120.17,Supplier_50,False
+403,Yoga Mat,Sports,Nike,371.98,260.29,Supplier_18,True
+404,Gym Bag,Sports,Yonex,443.2,277.71,Supplier_7,True
+405,Cookware Set,Home & Kitchen,Prestige,214.4,138.78,Supplier_6,False
+406,Smartphone,Electronics,Apple,584.46,407.24,Supplier_23,False
+407,Jeans,Fashion,Zara,601.9,394.58,Supplier_4,True
+408,Yoga Mat,Sports,Nivia,364.27,274.0,Supplier_46,True
+409,Microwave,Home & Kitchen,LG,670.09,476.67,Supplier_44,True
+410,T-Shirt,Fashion,Levi's,767.72,496.32,Supplier_9,True
+411,Jacket,Fashion,Adidas,625.85,415.96,Supplier_44,False
+412,Lipstick,Beauty,L'Oreal,464.19,319.88,Supplier_25,False
+413,Monitor,Electronics,Samsung,344.41,262.65,Supplier_24,False
+414,Lipstick,Beauty,Mamaearth,16.92,11.21,Supplier_47,True
+415,Face Wash,Beauty,Mamaearth,543.47,399.88,Supplier_28,True
+416,Serum,Beauty,Mamaearth,555.26,415.89,Supplier_37,True
+417,Badminton Racket,Sports,Nike,674.41,448.14,Supplier_3,True
+418,Face Wash,Beauty,Lakme,587.92,465.42,Supplier_30,True
+419,Shampoo,Beauty,L'Oreal,584.1,442.25,Supplier_18,True
+420,Mixer,Home & Kitchen,Bajaj,300.12,192.2,Supplier_11,True
+421,Shampoo,Beauty,Mamaearth,272.42,220.32,Supplier_7,True
+422,T-Shirt,Fashion,Levi's,96.81,75.02,Supplier_44,False
+423,Tablet,Electronics,Samsung,654.66,410.38,Supplier_28,True
+424,Shampoo,Beauty,Lakme,295.03,197.7,Supplier_7,True
+425,Microwave,Home & Kitchen,Bajaj,116.51,77.19,Supplier_49,True
+426,Hoodie,Fashion,Nike,413.03,286.01,Supplier_11,False
+427,Pressure Cooker,Home & Kitchen,Philips,666.44,460.75,Supplier_29,True
+428,Smartphone,Electronics,Samsung,543.75,378.7,Supplier_25,True
+429,Shampoo,Beauty,Mamaearth,191.59,131.42,Supplier_16,True
+430,Smartphone,Electronics,Sony,370.18,263.7,Supplier_48,False
+431,Pressure Cooker,Home & Kitchen,Prestige,314.37,252.49,Supplier_32,True
+432,Badminton Racket,Sports,Yonex,585.83,467.62,Supplier_37,False
+433,Pressure Cooker,Home & Kitchen,LG,606.99,383.74,Supplier_50,True
+434,Laptop,Electronics,HP,21.56,16.76,Supplier_4,False
+435,Yoga Mat,Sports,Nivia,528.44,385.88,Supplier_26,True
+436,Yoga Mat,Sports,Adidas,104.61,84.81,Supplier_6,True
+437,Jacket,Fashion,Zara,292.87,201.46,Supplier_42,True
+438,Pressure Cooker,Home & Kitchen,Hawkins,47.37,38.37,Supplier_28,True
+439,Lipstick,Beauty,Maybelline,54.2,36.96,Supplier_43,True
+440,Smartphone,Electronics,Samsung,447.66,353.73,Supplier_23,True
+441,Jeans,Fashion,Puma,584.72,377.39,Supplier_47,True
+442,Monitor,Electronics,Sony,175.58,143.27,Supplier_46,True
+443,Lipstick,Beauty,Nivea,261.01,186.46,Supplier_37,True
+444,Microwave,Home & Kitchen,Philips,605.84,388.93,Supplier_44,True
+445,T-Shirt,Fashion,Zara,48.8,31.58,Supplier_16,True
+446,Moisturizer,Beauty,Mamaearth,586.09,460.91,Supplier_3,False
+447,Jeans,Fashion,Puma,318.41,213.97,Supplier_18,True
+448,Football,Sports,Nivia,399.56,256.0,Supplier_12,True
+449,Gym Bag,Sports,Yonex,60.67,43.77,Supplier_19,True
+450,Air Fryer,Home & Kitchen,Prestige,315.07,233.81,Supplier_19,True
+451,Gym Bag,Sports,Cosco,302.58,190.45,Supplier_50,True
+452,Cricket Bat,Sports,Cosco,17.91,13.13,Supplier_15,True
+453,Laptop,Electronics,Sony,515.73,381.88,Supplier_48,True
+454,Smart Watch,Electronics,Apple,672.65,491.73,Supplier_4,True
+455,Mixer,Home & Kitchen,Prestige,719.31,461.42,Supplier_34,False
+456,Mixer,Home & Kitchen,Hawkins,413.05,294.58,Supplier_41,False
+457,Smart Watch,Electronics,HP,59.36,40.52,Supplier_9,True
+458,Microwave,Home & Kitchen,Bajaj,629.41,463.76,Supplier_48,True
+459,Microwave,Home & Kitchen,Hawkins,196.34,124.47,Supplier_9,True
+460,Jeans,Fashion,Nike,305.28,230.29,Supplier_8,True
+461,Jacket,Fashion,Levi's,365.28,237.04,Supplier_6,True
+462,Mixer,Home & Kitchen,LG,177.96,115.36,Supplier_10,True
+463,Sneakers,Fashion,Puma,384.78,261.6,Supplier_17,True
+464,Monitor,Electronics,Dell,401.05,282.42,Supplier_7,False
+465,Laptop,Electronics,Apple,24.3,15.86,Supplier_15,True
+466,Jacket,Fashion,Levi's,545.4,346.28,Supplier_6,True
+467,Laptop,Electronics,Samsung,155.9,106.9,Supplier_9,True
+468,Mixer,Home & Kitchen,Prestige,575.62,471.72,Supplier_37,False
+469,Face Wash,Beauty,Nivea,270.76,197.54,Supplier_23,True
+470,Jacket,Fashion,Puma,287.85,228.55,Supplier_40,True
+471,Cookware Set,Home & Kitchen,Hawkins,615.87,442.56,Supplier_6,True
+472,Moisturizer,Beauty,L'Oreal,167.4,107.73,Supplier_34,True
+473,Gym Bag,Sports,Yonex,528.24,393.14,Supplier_35,False
+474,Air Fryer,Home & Kitchen,LG,219.24,167.59,Supplier_2,True
+475,Football,Sports,Cosco,678.5,448.92,Supplier_4,False
+476,Yoga Mat,Sports,Nivia,794.49,499.81,Supplier_7,True
+477,Hoodie,Fashion,Puma,642.4,409.98,Supplier_4,True
+478,Badminton Racket,Sports,Nike,747.62,468.25,Supplier_12,True
+479,Jacket,Fashion,Zara,599.07,405.04,Supplier_38,True
+480,Air Fryer,Home & Kitchen,LG,125.76,79.63,Supplier_32,True
+481,T-Shirt,Fashion,Levi's,70.12,54.23,Supplier_15,True
+482,Football,Sports,Nike,249.45,172.55,Supplier_9,True
+483,T-Shirt,Fashion,Puma,29.75,20.74,Supplier_10,True
+484,Football,Sports,Nivia,304.41,193.06,Supplier_26,True
+485,Microwave,Home & Kitchen,Bajaj,97.07,76.86,Supplier_28,False
+486,Air Fryer,Home & Kitchen,Philips,549.79,349.84,Supplier_23,True
+487,Gym Bag,Sports,Cosco,236.57,160.34,Supplier_9,True
+488,Monitor,Electronics,HP,643.86,426.87,Supplier_37,True
+489,Jacket,Fashion,Zara,732.1,461.31,Supplier_15,True
+490,Serum,Beauty,L'Oreal,485.98,375.22,Supplier_21,True
+491,Monitor,Electronics,Sony,20.0,15.58,Supplier_45,True
+492,Mixer,Home & Kitchen,Bajaj,442.59,363.0,Supplier_29,False
+493,Sneakers,Fashion,Levi's,592.59,442.07,Supplier_25,True
+494,Shampoo,Beauty,Maybelline,110.28,89.7,Supplier_3,True
+495,Tablet,Electronics,Sony,585.71,476.31,Supplier_11,False
+496,Hoodie,Fashion,Nike,750.26,471.5,Supplier_22,False
+497,Smartphone,Electronics,Dell,422.53,307.59,Supplier_4,True
+498,Pressure Cooker,Home & Kitchen,Philips,299.33,210.55,Supplier_47,True
+499,Pressure Cooker,Home & Kitchen,Bajaj,77.36,57.0,Supplier_36,False
+500,Jacket,Fashion,Nike,14.66,11.87,Supplier_43,False
+501,T-Shirt,Fashion,Nike,162.13,111.41,Supplier_6,False
+502,Monitor,Electronics,Sony,375.09,240.76,Supplier_17,True
+503,Cricket Bat,Sports,Nike,259.42,191.8,Supplier_12,False
+504,Monitor,Electronics,Sony,306.98,237.88,Supplier_18,True
+505,T-Shirt,Fashion,Nike,513.94,337.39,Supplier_27,True
+506,Gym Bag,Sports,Yonex,562.05,411.02,Supplier_35,False
+507,Gym Bag,Sports,Cosco,212.43,156.44,Supplier_46,True
+508,Yoga Mat,Sports,Adidas,591.67,402.22,Supplier_40,True
+509,Smartphone,Electronics,Dell,601.81,475.04,Supplier_14,True
+510,Sneakers,Fashion,Nike,71.31,48.4,Supplier_13,True
+511,Badminton Racket,Sports,Nivia,714.4,456.29,Supplier_5,True
+512,Moisturizer,Beauty,Maybelline,432.73,280.51,Supplier_34,False
+513,Smart Watch,Electronics,HP,363.93,266.06,Supplier_27,True
+514,Hoodie,Fashion,Zara,468.66,295.51,Supplier_7,True
+515,Badminton Racket,Sports,Yonex,675.24,435.06,Supplier_27,True
+516,Lipstick,Beauty,Nivea,374.69,308.39,Supplier_18,False
+517,Hoodie,Fashion,Zara,467.53,343.6,Supplier_26,True
+518,Sneakers,Fashion,Nike,718.94,461.21,Supplier_2,True
+519,Microwave,Home & Kitchen,Bajaj,652.8,422.99,Supplier_44,True
+520,Jacket,Fashion,Adidas,671.23,487.37,Supplier_21,True
+521,Face Wash,Beauty,Maybelline,131.14,102.09,Supplier_27,False
+522,Football,Sports,Nivia,331.67,262.48,Supplier_20,False
+523,Hoodie,Fashion,Zara,30.88,24.18,Supplier_13,True
+524,Sneakers,Fashion,Nike,46.74,34.77,Supplier_13,True
+525,Air Fryer,Home & Kitchen,Hawkins,320.91,204.5,Supplier_44,True
+526,Sneakers,Fashion,Puma,382.68,301.08,Supplier_31,True
+527,Microwave,Home & Kitchen,Philips,556.26,376.99,Supplier_19,True
+528,Shampoo,Beauty,Lakme,647.67,428.37,Supplier_14,True
+529,Jacket,Fashion,Adidas,462.74,329.28,Supplier_50,True
+530,Shampoo,Beauty,L'Oreal,366.5,304.56,Supplier_17,True
+531,Cookware Set,Home & Kitchen,Hawkins,591.18,427.28,Supplier_14,False
+532,Air Fryer,Home & Kitchen,LG,253.89,204.6,Supplier_33,True
+533,Yoga Mat,Sports,Adidas,218.87,148.51,Supplier_31,True
+534,Microwave,Home & Kitchen,Bajaj,563.7,432.13,Supplier_46,True
+535,Hoodie,Fashion,Adidas,600.68,385.08,Supplier_39,False
+536,Mixer,Home & Kitchen,Philips,529.5,331.15,Supplier_17,False
+537,Face Wash,Beauty,Nivea,472.47,295.68,Supplier_13,True
+538,Sneakers,Fashion,Zara,667.11,454.2,Supplier_33,True
+539,Jeans,Fashion,Zara,213.73,153.95,Supplier_48,True
+540,Badminton Racket,Sports,Cosco,426.2,330.67,Supplier_15,True
+541,Serum,Beauty,Mamaearth,181.4,137.67,Supplier_8,False
+542,Smart Watch,Electronics,HP,580.72,472.71,Supplier_13,True
+543,Serum,Beauty,Maybelline,328.9,212.42,Supplier_10,True
+544,Sneakers,Fashion,Puma,768.79,493.72,Supplier_30,True
+545,Mixer,Home & Kitchen,Philips,361.52,248.91,Supplier_12,True
+546,Monitor,Electronics,Samsung,216.69,144.03,Supplier_11,True
+547,Shampoo,Beauty,Lakme,452.15,311.1,Supplier_26,False
+548,Face Wash,Beauty,Nivea,36.46,28.49,Supplier_24,True
+549,Pressure Cooker,Home & Kitchen,LG,22.57,18.78,Supplier_47,True
+550,Jacket,Fashion,Puma,99.04,73.18,Supplier_38,True
+551,T-Shirt,Fashion,Nike,205.51,156.12,Supplier_47,True
+552,Serum,Beauty,L'Oreal,695.4,498.11,Supplier_49,True
+553,T-Shirt,Fashion,Levi's,181.77,121.92,Supplier_9,True
+554,Smart Watch,Electronics,HP,124.97,92.8,Supplier_42,True
+555,Lipstick,Beauty,Mamaearth,453.32,315.34,Supplier_4,True
+556,Laptop,Electronics,Samsung,289.65,214.22,Supplier_36,True
+557,Shampoo,Beauty,L'Oreal,509.17,350.64,Supplier_20,False
+558,Tablet,Electronics,HP,466.54,315.17,Supplier_27,True
+559,Football,Sports,Adidas,224.86,148.53,Supplier_32,True
+560,Badminton Racket,Sports,Cosco,663.4,417.43,Supplier_23,False
+561,Mixer,Home & Kitchen,Philips,435.75,278.59,Supplier_45,False
+562,Mixer,Home & Kitchen,Philips,20.08,16.25,Supplier_8,False
+563,Hoodie,Fashion,Nike,69.66,46.77,Supplier_17,True
+564,Serum,Beauty,Mamaearth,294.48,237.5,Supplier_12,True
+565,Microwave,Home & Kitchen,Bajaj,272.63,218.74,Supplier_49,True
+566,Smartphone,Electronics,Apple,266.45,171.04,Supplier_40,True
+567,Tablet,Electronics,Sony,135.5,99.61,Supplier_30,True
+568,Moisturizer,Beauty,Nivea,498.05,327.93,Supplier_8,True
+569,Laptop,Electronics,Apple,307.15,213.85,Supplier_37,False
+570,Sneakers,Fashion,Zara,565.96,391.79,Supplier_44,True
+571,Face Wash,Beauty,Nivea,612.33,444.92,Supplier_5,True
+572,Air Fryer,Home & Kitchen,Prestige,552.36,386.09,Supplier_37,True
+573,Air Fryer,Home & Kitchen,LG,502.56,347.24,Supplier_28,True
+574,Moisturizer,Beauty,Mamaearth,126.79,82.84,Supplier_40,True
+575,Smart Watch,Electronics,Apple,656.25,425.93,Supplier_11,True
+576,Shampoo,Beauty,Mamaearth,225.72,172.14,Supplier_33,True
+577,Gym Bag,Sports,Nike,505.4,410.38,Supplier_29,False
+578,Monitor,Electronics,Dell,262.52,164.87,Supplier_48,True
+579,Monitor,Electronics,Dell,39.13,27.56,Supplier_6,True
+580,Cricket Bat,Sports,Adidas,457.26,330.75,Supplier_22,True
+581,Monitor,Electronics,Apple,260.21,172.67,Supplier_39,False
+582,Mixer,Home & Kitchen,Hawkins,84.51,57.74,Supplier_1,True
+583,Air Fryer,Home & Kitchen,Bajaj,393.56,265.77,Supplier_3,True
+584,Moisturizer,Beauty,L'Oreal,90.14,62.41,Supplier_13,True
+585,Moisturizer,Beauty,L'Oreal,528.4,414.03,Supplier_22,True
+586,Lipstick,Beauty,Lakme,109.56,70.38,Supplier_30,True
+587,Lipstick,Beauty,Lakme,526.93,370.74,Supplier_28,False
+588,Yoga Mat,Sports,Cosco,145.12,95.09,Supplier_7,False
+589,Badminton Racket,Sports,Adidas,347.96,257.01,Supplier_39,True
+590,Microwave,Home & Kitchen,Hawkins,670.6,485.54,Supplier_9,True
+591,Lipstick,Beauty,Maybelline,231.67,156.47,Supplier_21,True
+592,Hoodie,Fashion,Adidas,530.95,360.05,Supplier_44,True
+593,Hoodie,Fashion,Zara,465.41,350.21,Supplier_8,True
+594,Yoga Mat,Sports,Nike,424.82,289.61,Supplier_27,True
+595,Lipstick,Beauty,Lakme,84.08,62.17,Supplier_4,True
+596,Jeans,Fashion,Puma,724.79,491.93,Supplier_10,True
+597,Air Fryer,Home & Kitchen,Philips,39.41,25.83,Supplier_7,True
+598,Cricket Bat,Sports,Nike,395.4,260.35,Supplier_45,True
+599,Monitor,Electronics,Dell,324.44,214.12,Supplier_44,True
+600,Football,Sports,Yonex,479.69,374.4,Supplier_50,False
+601,Hoodie,Fashion,Puma,400.47,277.84,Supplier_50,True
+602,Pressure Cooker,Home & Kitchen,Hawkins,604.92,491.89,Supplier_12,True
+603,Moisturizer,Beauty,Lakme,191.64,146.77,Supplier_11,True
+604,Monitor,Electronics,Sony,451.45,357.75,Supplier_10,True
+605,Yoga Mat,Sports,Yonex,558.74,423.14,Supplier_37,True
+606,Smart Watch,Electronics,Sony,150.0,117.78,Supplier_5,True
+607,Lipstick,Beauty,Maybelline,278.23,207.67,Supplier_14,True
+608,Microwave,Home & Kitchen,Bajaj,175.68,117.04,Supplier_34,False
+609,Football,Sports,Yonex,465.55,337.78,Supplier_42,True
+610,Monitor,Electronics,Sony,724.0,458.81,Supplier_25,True
+611,Football,Sports,Nivia,697.99,456.55,Supplier_24,False
+612,Serum,Beauty,Lakme,574.86,450.16,Supplier_33,True
+613,Smart Watch,Electronics,Apple,393.55,271.27,Supplier_14,True
+614,Shampoo,Beauty,Lakme,405.08,273.5,Supplier_48,False
+615,Laptop,Electronics,Apple,313.21,235.02,Supplier_6,True
+616,Tablet,Electronics,Apple,405.34,283.46,Supplier_15,True
+617,Moisturizer,Beauty,Nivea,437.79,318.81,Supplier_2,False
+618,Laptop,Electronics,HP,469.37,324.3,Supplier_49,True
+619,Smart Watch,Electronics,Sony,93.93,62.01,Supplier_20,True
+620,Cookware Set,Home & Kitchen,Hawkins,298.14,203.61,Supplier_31,True
+621,Cricket Bat,Sports,Cosco,570.9,375.91,Supplier_35,True
+622,Jacket,Fashion,Puma,577.08,479.12,Supplier_36,True
+623,Laptop,Electronics,Samsung,394.57,290.63,Supplier_36,True
+624,Microwave,Home & Kitchen,Philips,177.71,113.75,Supplier_33,True
+625,Jeans,Fashion,Adidas,406.29,312.27,Supplier_8,True
+626,Yoga Mat,Sports,Yonex,335.12,236.02,Supplier_19,True
+627,Pressure Cooker,Home & Kitchen,Prestige,509.88,365.54,Supplier_22,True
+628,T-Shirt,Fashion,Adidas,183.84,149.72,Supplier_13,True
+629,Serum,Beauty,Nivea,412.56,312.01,Supplier_38,True
+630,Badminton Racket,Sports,Adidas,642.52,405.77,Supplier_11,True
+631,Pressure Cooker,Home & Kitchen,Philips,522.8,358.98,Supplier_18,True
+632,Sneakers,Fashion,Puma,318.14,236.8,Supplier_20,False
+633,Cricket Bat,Sports,Yonex,402.28,326.32,Supplier_18,True
+634,Badminton Racket,Sports,Cosco,535.93,369.44,Supplier_47,True
+635,Laptop,Electronics,HP,584.35,408.19,Supplier_50,True
+636,Tablet,Electronics,HP,441.94,276.3,Supplier_31,True
+637,Pressure Cooker,Home & Kitchen,Hawkins,641.53,446.8,Supplier_19,True
+638,Lipstick,Beauty,Maybelline,73.16,54.37,Supplier_1,True
+639,Yoga Mat,Sports,Cosco,99.55,78.78,Supplier_37,True
+640,Face Wash,Beauty,Mamaearth,163.53,117.22,Supplier_5,True
+641,Mixer,Home & Kitchen,Philips,475.07,337.61,Supplier_24,False
+642,Face Wash,Beauty,Nivea,43.13,29.55,Supplier_7,True
+643,Air Fryer,Home & Kitchen,LG,390.86,289.38,Supplier_25,True
+644,Yoga Mat,Sports,Yonex,211.79,133.28,Supplier_15,False
+645,Cookware Set,Home & Kitchen,Bajaj,619.46,398.4,Supplier_1,True
+646,Shampoo,Beauty,L'Oreal,69.62,47.77,Supplier_14,True
+647,Jacket,Fashion,Adidas,465.65,304.99,Supplier_43,True
+648,Face Wash,Beauty,Mamaearth,342.23,245.94,Supplier_14,True
+649,Shampoo,Beauty,Lakme,44.51,31.14,Supplier_11,True
+650,Yoga Mat,Sports,Yonex,103.81,81.96,Supplier_12,False
+651,Football,Sports,Adidas,656.82,440.47,Supplier_19,True
+652,Hoodie,Fashion,Levi's,767.98,496.46,Supplier_11,True
+653,Shampoo,Beauty,Maybelline,610.29,399.36,Supplier_12,True
+654,Sneakers,Fashion,Puma,371.08,302.3,Supplier_25,False
+655,T-Shirt,Fashion,Nike,168.51,109.15,Supplier_33,False
+656,T-Shirt,Fashion,Zara,151.29,96.94,Supplier_39,True
+657,Football,Sports,Adidas,81.47,55.66,Supplier_39,True
+658,Moisturizer,Beauty,Maybelline,233.1,191.48,Supplier_34,False
+659,Sneakers,Fashion,Levi's,276.6,181.75,Supplier_49,True
+660,Serum,Beauty,L'Oreal,315.23,243.8,Supplier_6,True
+661,Gym Bag,Sports,Adidas,163.88,136.32,Supplier_48,True
+662,Football,Sports,Adidas,357.32,264.68,Supplier_14,True
+663,Face Wash,Beauty,Mamaearth,125.38,85.84,Supplier_17,True
+664,Yoga Mat,Sports,Nike,247.86,189.17,Supplier_44,False
+665,Hoodie,Fashion,Levi's,548.92,394.06,Supplier_24,False
+666,Air Fryer,Home & Kitchen,Bajaj,264.91,178.73,Supplier_48,True
+667,Monitor,Electronics,Apple,621.96,393.72,Supplier_7,True
+668,Badminton Racket,Sports,Nike,581.74,402.42,Supplier_44,True
+669,T-Shirt,Fashion,Levi's,618.05,404.14,Supplier_31,False
+670,Tablet,Electronics,Samsung,146.2,118.67,Supplier_3,False
+671,Lipstick,Beauty,Maybelline,238.4,150.37,Supplier_4,True
+672,Face Wash,Beauty,Nivea,159.21,108.84,Supplier_34,True
+673,Hoodie,Fashion,Nike,384.89,260.17,Supplier_40,True
+674,Smartphone,Electronics,Sony,526.31,330.96,Supplier_6,True
+675,Moisturizer,Beauty,Mamaearth,267.12,208.67,Supplier_1,True
+676,Tablet,Electronics,HP,520.78,365.81,Supplier_38,True
+677,Pressure Cooker,Home & Kitchen,Bajaj,392.44,307.12,Supplier_26,True
+678,Cookware Set,Home & Kitchen,Philips,367.34,258.06,Supplier_33,True
+679,Air Fryer,Home & Kitchen,Prestige,742.34,478.79,Supplier_37,True
+680,Lipstick,Beauty,Nivea,320.41,246.98,Supplier_22,False
+681,Face Wash,Beauty,Maybelline,320.79,246.17,Supplier_25,True
+682,Sneakers,Fashion,Puma,672.59,478.17,Supplier_1,True
+683,T-Shirt,Fashion,Puma,308.12,205.48,Supplier_22,True
+684,Gym Bag,Sports,Cosco,210.88,163.8,Supplier_37,True
+685,Sneakers,Fashion,Adidas,480.3,371.19,Supplier_16,True
+686,Jeans,Fashion,Adidas,643.15,419.12,Supplier_23,True
+687,Laptop,Electronics,Samsung,499.91,341.15,Supplier_40,True
+688,Gym Bag,Sports,Yonex,254.48,191.89,Supplier_37,True
+689,Lipstick,Beauty,L'Oreal,189.88,147.33,Supplier_37,True
+690,Monitor,Electronics,HP,346.12,244.38,Supplier_33,True
+691,Moisturizer,Beauty,L'Oreal,722.62,488.49,Supplier_30,True
+692,Smartphone,Electronics,Samsung,243.0,195.92,Supplier_24,True
+693,Jacket,Fashion,Zara,175.23,126.2,Supplier_40,True
+694,Cookware Set,Home & Kitchen,Philips,297.78,217.73,Supplier_49,True
+695,Microwave,Home & Kitchen,Hawkins,329.8,230.86,Supplier_37,True
+696,Smartphone,Electronics,Sony,435.18,282.12,Supplier_13,True
+697,T-Shirt,Fashion,Levi's,135.14,96.54,Supplier_41,True
+698,Serum,Beauty,Mamaearth,407.38,285.45,Supplier_26,True
+699,Jeans,Fashion,Nike,568.44,408.77,Supplier_41,True
+700,Serum,Beauty,Mamaearth,266.13,186.87,Supplier_17,True
+701,Laptop,Electronics,Dell,267.92,182.03,Supplier_39,True
+702,Yoga Mat,Sports,Adidas,144.44,95.52,Supplier_23,True
+703,Gym Bag,Sports,Nike,603.07,445.92,Supplier_19,False
+704,Jacket,Fashion,Adidas,313.1,216.69,Supplier_26,True
+705,Tablet,Electronics,Apple,161.64,121.83,Supplier_19,True
+706,Badminton Racket,Sports,Nike,672.97,444.97,Supplier_24,False
+707,Shampoo,Beauty,L'Oreal,535.71,428.56,Supplier_16,True
+708,Smartphone,Electronics,Apple,253.28,204.55,Supplier_31,True
+709,Smart Watch,Electronics,Dell,474.64,384.85,Supplier_17,True
+710,Tablet,Electronics,Dell,182.96,122.38,Supplier_29,True
+711,Jeans,Fashion,Zara,35.17,24.0,Supplier_21,False
+712,Serum,Beauty,Maybelline,349.62,278.79,Supplier_45,True
+713,Gym Bag,Sports,Adidas,464.24,319.21,Supplier_37,False
+714,Badminton Racket,Sports,Adidas,634.18,455.37,Supplier_15,True
+715,Serum,Beauty,Mamaearth,267.58,211.98,Supplier_1,True
+716,Badminton Racket,Sports,Cosco,212.83,150.51,Supplier_45,False
+717,Face Wash,Beauty,Mamaearth,585.31,385.28,Supplier_39,True
+718,Tablet,Electronics,HP,159.01,102.4,Supplier_28,False
+719,Sneakers,Fashion,Adidas,535.82,415.93,Supplier_6,False
+720,Hoodie,Fashion,Zara,597.96,405.71,Supplier_19,True
+721,Face Wash,Beauty,L'Oreal,130.77,99.38,Supplier_41,False
+722,Badminton Racket,Sports,Nike,493.39,353.23,Supplier_21,True
+723,Hoodie,Fashion,Nike,33.11,20.84,Supplier_19,True
+724,T-Shirt,Fashion,Levi's,156.37,124.08,Supplier_32,True
+725,Microwave,Home & Kitchen,Hawkins,552.76,395.01,Supplier_24,False
+726,Laptop,Electronics,Sony,669.16,423.34,Supplier_4,True
+727,Lipstick,Beauty,Lakme,306.92,240.37,Supplier_17,False
+728,Smartphone,Electronics,Samsung,315.69,198.55,Supplier_16,True
+729,T-Shirt,Fashion,Levi's,422.68,265.36,Supplier_31,False
+730,Pressure Cooker,Home & Kitchen,Bajaj,387.32,318.29,Supplier_36,True
+731,Microwave,Home & Kitchen,Hawkins,166.96,107.37,Supplier_43,True
+732,Monitor,Electronics,Apple,214.13,169.01,Supplier_18,True
+733,Face Wash,Beauty,L'Oreal,694.34,484.73,Supplier_45,False
+734,Badminton Racket,Sports,Cosco,503.8,387.69,Supplier_32,True
+735,Football,Sports,Nivia,57.28,39.29,Supplier_45,True
+736,Jeans,Fashion,Levi's,235.14,165.2,Supplier_42,True
+737,Face Wash,Beauty,L'Oreal,467.09,347.73,Supplier_9,True
+738,Monitor,Electronics,Dell,402.34,283.92,Supplier_32,True
+739,Yoga Mat,Sports,Cosco,269.27,180.36,Supplier_18,True
+740,Smartphone,Electronics,HP,351.69,230.2,Supplier_35,True
+741,Lipstick,Beauty,Lakme,249.4,195.73,Supplier_2,True
+742,Badminton Racket,Sports,Cosco,531.61,363.29,Supplier_35,False
+743,Sneakers,Fashion,Zara,486.0,385.21,Supplier_19,True
+744,Face Wash,Beauty,Mamaearth,83.67,57.17,Supplier_3,True
+745,Jeans,Fashion,Nike,79.74,62.46,Supplier_3,False
+746,Lipstick,Beauty,Maybelline,460.57,353.64,Supplier_24,True
+747,Football,Sports,Yonex,597.85,465.8,Supplier_32,True
+748,Serum,Beauty,Lakme,446.49,283.43,Supplier_27,True
+749,Tablet,Electronics,HP,402.14,269.22,Supplier_20,True
+750,T-Shirt,Fashion,Zara,77.03,59.6,Supplier_25,True
+751,Jeans,Fashion,Zara,456.82,289.31,Supplier_36,False
+752,Tablet,Electronics,HP,504.29,340.5,Supplier_28,True
+753,Hoodie,Fashion,Adidas,276.03,206.76,Supplier_11,False
+754,Air Fryer,Home & Kitchen,Bajaj,659.37,495.82,Supplier_24,False
+755,Lipstick,Beauty,Mamaearth,181.47,127.95,Supplier_25,True
+756,Cookware Set,Home & Kitchen,Hawkins,576.41,480.31,Supplier_3,True
+757,Yoga Mat,Sports,Yonex,118.56,76.19,Supplier_1,True
+758,Jacket,Fashion,Adidas,31.54,20.63,Supplier_45,True
+759,Yoga Mat,Sports,Adidas,413.78,289.63,Supplier_7,True
+760,Shampoo,Beauty,Mamaearth,104.81,77.82,Supplier_38,True
+761,Jacket,Fashion,Puma,74.84,55.03,Supplier_14,True
+762,Pressure Cooker,Home & Kitchen,Hawkins,388.75,249.26,Supplier_45,True
+763,Football,Sports,Nivia,526.56,368.09,Supplier_6,True
+764,Cookware Set,Home & Kitchen,Bajaj,331.24,214.1,Supplier_50,True
+765,Gym Bag,Sports,Yonex,51.48,36.52,Supplier_21,True
+766,Pressure Cooker,Home & Kitchen,LG,125.01,85.07,Supplier_26,False
+767,Yoga Mat,Sports,Adidas,74.32,54.14,Supplier_26,True
+768,T-Shirt,Fashion,Puma,364.3,243.17,Supplier_36,False
+769,Cookware Set,Home & Kitchen,Prestige,386.27,255.89,Supplier_9,True
+770,Shampoo,Beauty,Maybelline,363.84,249.05,Supplier_13,True
+771,Jacket,Fashion,Nike,519.28,390.62,Supplier_37,True
+772,Monitor,Electronics,Dell,241.18,188.98,Supplier_23,True
+773,Microwave,Home & Kitchen,Philips,497.89,311.95,Supplier_29,True
+774,Shampoo,Beauty,Lakme,145.55,107.85,Supplier_49,True
+775,Smartphone,Electronics,Samsung,746.05,474.98,Supplier_19,True
+776,Microwave,Home & Kitchen,Prestige,278.73,230.53,Supplier_14,True
+777,Hoodie,Fashion,Zara,536.11,377.67,Supplier_40,True
+778,Smart Watch,Electronics,Dell,640.41,453.96,Supplier_17,True
+779,Smartphone,Electronics,Sony,574.1,396.7,Supplier_4,False
+780,Monitor,Electronics,Samsung,488.76,333.58,Supplier_43,True
+781,Tablet,Electronics,Samsung,635.04,435.03,Supplier_15,False
+782,Badminton Racket,Sports,Yonex,356.08,247.48,Supplier_6,True
+783,Sneakers,Fashion,Zara,422.84,284.74,Supplier_3,True
+784,Badminton Racket,Sports,Nivia,374.54,250.07,Supplier_2,True
+785,Microwave,Home & Kitchen,Bajaj,200.09,125.74,Supplier_33,True
+786,Monitor,Electronics,Sony,681.03,446.3,Supplier_2,True
+787,Jacket,Fashion,Adidas,657.69,449.62,Supplier_6,False
+788,Cricket Bat,Sports,Adidas,306.54,214.49,Supplier_28,True
+789,Gym Bag,Sports,Nivia,353.63,275.69,Supplier_9,True
+790,Hoodie,Fashion,Puma,625.22,455.69,Supplier_50,True
+791,Badminton Racket,Sports,Cosco,61.09,43.23,Supplier_47,True
+792,Jeans,Fashion,Puma,551.67,366.27,Supplier_27,False
+793,Microwave,Home & Kitchen,Hawkins,107.7,84.46,Supplier_9,True
+794,Smart Watch,Electronics,HP,200.84,140.76,Supplier_15,True
+795,Jacket,Fashion,Nike,73.99,48.94,Supplier_9,False
+796,Cookware Set,Home & Kitchen,Philips,314.77,250.81,Supplier_13,True
+797,Laptop,Electronics,Dell,732.3,463.46,Supplier_15,True
+798,Jeans,Fashion,Nike,740.18,464.28,Supplier_40,False
+799,Pressure Cooker,Home & Kitchen,Hawkins,331.55,219.5,Supplier_39,False
+800,Air Fryer,Home & Kitchen,Hawkins,671.78,470.18,Supplier_35,True
+801,Gym Bag,Sports,Yonex,362.77,233.88,Supplier_16,False
+802,Monitor,Electronics,HP,381.8,262.9,Supplier_4,True
+803,Cookware Set,Home & Kitchen,Hawkins,669.22,443.35,Supplier_19,False
+804,Jacket,Fashion,Levi's,379.3,310.44,Supplier_34,True
+805,Face Wash,Beauty,Nivea,453.4,364.1,Supplier_50,True
+806,Serum,Beauty,Nivea,293.64,230.93,Supplier_38,True
+807,Serum,Beauty,Lakme,246.35,168.8,Supplier_46,True
+808,Laptop,Electronics,Samsung,517.56,356.05,Supplier_6,False
+809,Cricket Bat,Sports,Adidas,264.43,195.55,Supplier_50,True
+810,Pressure Cooker,Home & Kitchen,LG,112.5,89.44,Supplier_50,True
+811,Serum,Beauty,Mamaearth,582.71,367.78,Supplier_19,True
+812,Smartphone,Electronics,Apple,17.67,11.73,Supplier_1,False
+813,Lipstick,Beauty,Nivea,585.43,405.65,Supplier_32,True
+814,Sneakers,Fashion,Zara,319.86,232.33,Supplier_39,True
+815,Jacket,Fashion,Zara,446.39,313.69,Supplier_14,True
+816,T-Shirt,Fashion,Adidas,400.98,330.11,Supplier_3,True
+817,Mixer,Home & Kitchen,Prestige,101.2,63.35,Supplier_11,True
+818,Yoga Mat,Sports,Adidas,503.02,395.78,Supplier_30,True
+819,Tablet,Electronics,Samsung,262.19,168.18,Supplier_5,False
+820,Badminton Racket,Sports,Yonex,300.59,240.7,Supplier_18,True
+821,Yoga Mat,Sports,Nike,144.82,112.82,Supplier_4,True
+822,Football,Sports,Adidas,364.42,246.99,Supplier_46,True
+823,Serum,Beauty,Maybelline,196.25,137.23,Supplier_40,True
+824,Hoodie,Fashion,Zara,377.74,253.23,Supplier_32,False
+825,Jeans,Fashion,Zara,568.57,357.21,Supplier_1,True
+826,Laptop,Electronics,Dell,476.43,371.36,Supplier_40,False
+827,Serum,Beauty,Lakme,276.06,181.33,Supplier_14,True
+828,Jacket,Fashion,Puma,525.54,397.2,Supplier_33,True
+829,Tablet,Electronics,Samsung,264.09,177.27,Supplier_40,True
+830,Jacket,Fashion,Adidas,656.7,418.57,Supplier_31,False
+831,Monitor,Electronics,Apple,119.24,86.14,Supplier_35,True
+832,Face Wash,Beauty,Nivea,553.23,419.2,Supplier_47,True
+833,Football,Sports,Adidas,165.18,112.05,Supplier_23,True
+834,T-Shirt,Fashion,Puma,237.86,176.18,Supplier_35,True
+835,Gym Bag,Sports,Adidas,126.94,101.82,Supplier_49,True
+836,Microwave,Home & Kitchen,Prestige,297.67,212.8,Supplier_16,True
+837,Shampoo,Beauty,Mamaearth,339.47,267.3,Supplier_24,True
+838,Sneakers,Fashion,Nike,391.97,257.94,Supplier_33,True
+839,Sneakers,Fashion,Puma,519.95,368.9,Supplier_50,True
+840,Hoodie,Fashion,Nike,428.04,341.59,Supplier_47,True
+841,Lipstick,Beauty,Nivea,88.42,66.76,Supplier_3,True
+842,Mixer,Home & Kitchen,Hawkins,91.17,60.52,Supplier_48,True
+843,Tablet,Electronics,HP,414.76,323.04,Supplier_13,True
+844,Air Fryer,Home & Kitchen,Bajaj,229.01,166.38,Supplier_8,True
+845,Jacket,Fashion,Adidas,104.64,66.09,Supplier_36,True
+846,Jacket,Fashion,Zara,365.3,279.19,Supplier_46,True
+847,Cricket Bat,Sports,Cosco,64.91,44.91,Supplier_22,False
+848,Laptop,Electronics,Apple,353.82,240.66,Supplier_7,False
+849,Monitor,Electronics,Samsung,299.4,202.04,Supplier_38,False
+850,Badminton Racket,Sports,Nivia,221.11,172.84,Supplier_49,True
+851,Shampoo,Beauty,Maybelline,84.46,55.53,Supplier_45,False
+852,Tablet,Electronics,Dell,512.59,345.39,Supplier_30,False
+853,Jeans,Fashion,Adidas,624.92,431.94,Supplier_24,False
+854,Jacket,Fashion,Puma,281.34,232.11,Supplier_31,True
+855,Cookware Set,Home & Kitchen,Hawkins,557.24,424.43,Supplier_23,True
+856,Gym Bag,Sports,Yonex,623.58,410.6,Supplier_21,True
+857,Cookware Set,Home & Kitchen,LG,281.81,206.4,Supplier_40,True
+858,Gym Bag,Sports,Cosco,264.68,198.07,Supplier_45,False
+859,Serum,Beauty,Maybelline,358.33,276.82,Supplier_43,True
+860,Football,Sports,Nike,415.77,300.16,Supplier_36,True
+861,Serum,Beauty,L'Oreal,587.38,478.38,Supplier_7,False
+862,Mixer,Home & Kitchen,Hawkins,83.0,54.36,Supplier_38,True
+863,Sneakers,Fashion,Adidas,366.55,270.32,Supplier_37,False
+864,Jacket,Fashion,Adidas,238.09,156.87,Supplier_44,True
+865,Face Wash,Beauty,Mamaearth,426.94,295.54,Supplier_33,False
+866,T-Shirt,Fashion,Puma,271.02,190.92,Supplier_4,True
+867,Football,Sports,Nivia,668.0,432.01,Supplier_16,False
+868,Badminton Racket,Sports,Nike,488.79,358.77,Supplier_28,True
+869,Jeans,Fashion,Levi's,138.4,102.23,Supplier_24,False
+870,Jeans,Fashion,Puma,93.14,75.8,Supplier_2,True
+871,Shampoo,Beauty,Nivea,75.02,51.49,Supplier_27,False
+872,Yoga Mat,Sports,Nike,137.71,98.1,Supplier_36,False
+873,Shampoo,Beauty,Mamaearth,145.68,101.04,Supplier_37,False
+874,Jacket,Fashion,Zara,299.74,211.31,Supplier_24,True
+875,Monitor,Electronics,HP,442.55,355.39,Supplier_31,True
+876,Jacket,Fashion,Zara,292.83,237.82,Supplier_40,True
+877,T-Shirt,Fashion,Levi's,488.69,345.2,Supplier_38,True
+878,Badminton Racket,Sports,Yonex,327.78,272.17,Supplier_30,False
+879,Gym Bag,Sports,Nivia,291.06,182.93,Supplier_19,True
+880,Hoodie,Fashion,Nike,562.36,377.22,Supplier_37,True
+881,Smart Watch,Electronics,Dell,113.34,92.85,Supplier_19,True
+882,Mixer,Home & Kitchen,Hawkins,88.79,72.14,Supplier_18,True
+883,Jacket,Fashion,Zara,188.72,144.86,Supplier_48,True
+884,Yoga Mat,Sports,Cosco,544.61,372.09,Supplier_24,True
+885,Cookware Set,Home & Kitchen,Philips,139.12,98.6,Supplier_3,True
+886,Smart Watch,Electronics,Apple,589.99,467.63,Supplier_32,False
+887,Moisturizer,Beauty,L'Oreal,463.36,365.74,Supplier_37,True
+888,Laptop,Electronics,Sony,49.52,35.74,Supplier_31,True
+889,Shampoo,Beauty,Maybelline,290.67,196.1,Supplier_31,True
+890,Sneakers,Fashion,Zara,24.84,15.81,Supplier_29,False
+891,Mixer,Home & Kitchen,LG,81.52,57.71,Supplier_23,False
+892,Badminton Racket,Sports,Nivia,216.67,142.46,Supplier_17,False
+893,Lipstick,Beauty,L'Oreal,545.65,387.54,Supplier_44,True
+894,Mixer,Home & Kitchen,LG,520.6,339.67,Supplier_1,False
+895,Laptop,Electronics,HP,463.7,345.89,Supplier_47,True
+896,Mixer,Home & Kitchen,Philips,26.73,21.61,Supplier_39,True
+897,Football,Sports,Yonex,75.45,52.33,Supplier_25,True
+898,Tablet,Electronics,Apple,225.98,154.34,Supplier_5,False
+899,Microwave,Home & Kitchen,Hawkins,205.81,136.09,Supplier_18,True
+900,Serum,Beauty,Nivea,649.07,498.02,Supplier_17,True
+901,Moisturizer,Beauty,Lakme,627.23,489.92,Supplier_26,True
+902,Shampoo,Beauty,Lakme,377.31,274.91,Supplier_40,True
+903,Face Wash,Beauty,Mamaearth,33.26,27.08,Supplier_47,True
+904,Moisturizer,Beauty,Lakme,120.77,82.94,Supplier_3,False
+905,Microwave,Home & Kitchen,Philips,648.1,453.26,Supplier_33,False
+906,Moisturizer,Beauty,Nivea,640.61,423.58,Supplier_5,True
+907,Monitor,Electronics,Dell,98.13,69.39,Supplier_23,True
+908,Mixer,Home & Kitchen,Hawkins,506.43,319.81,Supplier_6,True
+909,Football,Sports,Nivia,635.04,422.18,Supplier_19,True
+910,T-Shirt,Fashion,Zara,708.84,484.08,Supplier_20,False
+911,Monitor,Electronics,Sony,74.95,51.58,Supplier_48,True
+912,Jeans,Fashion,Nike,35.86,22.43,Supplier_16,False
+913,Lipstick,Beauty,Lakme,455.34,325.27,Supplier_29,True
+914,Laptop,Electronics,Sony,261.19,175.48,Supplier_26,True
+915,Sneakers,Fashion,Zara,728.59,470.64,Supplier_35,True
+916,Football,Sports,Cosco,35.27,28.07,Supplier_42,True
+917,Face Wash,Beauty,Maybelline,188.15,128.91,Supplier_1,True
+918,Laptop,Electronics,Sony,296.18,233.53,Supplier_38,True
+919,Monitor,Electronics,Samsung,436.1,301.54,Supplier_5,True
+920,Moisturizer,Beauty,Mamaearth,268.58,168.88,Supplier_37,True
+921,Mixer,Home & Kitchen,Philips,401.07,300.61,Supplier_8,True
+922,Jeans,Fashion,Levi's,499.15,351.18,Supplier_29,True
+923,Cricket Bat,Sports,Yonex,90.77,58.98,Supplier_40,False
+924,Sneakers,Fashion,Nike,59.6,49.55,Supplier_6,True
+925,Shampoo,Beauty,Nivea,161.64,111.02,Supplier_34,False
+926,Shampoo,Beauty,L'Oreal,375.64,309.16,Supplier_12,False
+927,Badminton Racket,Sports,Yonex,216.87,180.45,Supplier_16,True
+928,Laptop,Electronics,HP,484.03,313.27,Supplier_35,True
+929,Serum,Beauty,L'Oreal,44.82,36.0,Supplier_10,False
+930,Shampoo,Beauty,L'Oreal,411.88,338.37,Supplier_42,True
+931,Cookware Set,Home & Kitchen,Philips,192.68,133.18,Supplier_49,False
+932,Laptop,Electronics,Samsung,588.4,463.18,Supplier_2,False
+933,Football,Sports,Yonex,667.75,448.59,Supplier_38,True
+934,Serum,Beauty,L'Oreal,152.68,122.73,Supplier_15,True
+935,Jeans,Fashion,Levi's,249.94,194.01,Supplier_31,False
+936,Smartphone,Electronics,Dell,167.36,115.92,Supplier_12,False
+937,Cookware Set,Home & Kitchen,Philips,526.95,362.71,Supplier_18,True
+938,Mixer,Home & Kitchen,Philips,427.35,349.18,Supplier_9,True
+939,Moisturizer,Beauty,Nivea,125.57,93.89,Supplier_19,True
+940,Yoga Mat,Sports,Cosco,748.44,485.37,Supplier_6,False
+941,Cricket Bat,Sports,Nike,460.24,299.87,Supplier_18,True
+942,Shampoo,Beauty,L'Oreal,243.95,170.38,Supplier_38,True
+943,Gym Bag,Sports,Yonex,596.2,490.29,Supplier_31,True
+944,Moisturizer,Beauty,Maybelline,371.96,244.84,Supplier_7,False
+945,Face Wash,Beauty,L'Oreal,341.8,283.66,Supplier_47,False
+946,Jacket,Fashion,Adidas,226.07,154.94,Supplier_6,True
+947,Shampoo,Beauty,Mamaearth,547.24,354.62,Supplier_48,True
+948,Shampoo,Beauty,Nivea,597.11,438.36,Supplier_24,False
+949,Monitor,Electronics,Samsung,596.96,447.78,Supplier_3,True
+950,Lipstick,Beauty,Mamaearth,418.59,275.79,Supplier_44,True
+951,Football,Sports,Nivia,410.11,262.22,Supplier_24,True
+952,Tablet,Electronics,Dell,289.52,238.02,Supplier_24,True
+953,Yoga Mat,Sports,Yonex,458.38,357.58,Supplier_22,True
+954,Gym Bag,Sports,Yonex,557.32,371.32,Supplier_45,True
+955,Jacket,Fashion,Puma,630.63,449.99,Supplier_28,True
+956,Tablet,Electronics,Samsung,249.84,179.16,Supplier_34,True
+957,Lipstick,Beauty,Maybelline,622.36,450.73,Supplier_24,True
+958,T-Shirt,Fashion,Levi's,76.84,49.28,Supplier_19,True
+959,Tablet,Electronics,Apple,81.71,64.89,Supplier_10,True
+960,Badminton Racket,Sports,Yonex,315.36,214.1,Supplier_9,False
+961,Cookware Set,Home & Kitchen,Hawkins,448.97,371.48,Supplier_13,True
+962,Smart Watch,Electronics,Apple,444.73,325.89,Supplier_22,True
+963,Lipstick,Beauty,Maybelline,582.29,422.53,Supplier_20,True
+964,Microwave,Home & Kitchen,Philips,163.36,121.12,Supplier_19,True
+965,Jacket,Fashion,Puma,295.61,233.4,Supplier_11,True
+966,Jeans,Fashion,Adidas,110.97,89.01,Supplier_21,True
+967,Serum,Beauty,Mamaearth,143.07,100.4,Supplier_3,True
+968,Microwave,Home & Kitchen,Philips,365.31,229.73,Supplier_35,True
+969,Monitor,Electronics,Samsung,702.78,466.22,Supplier_30,True
+970,Hoodie,Fashion,Nike,650.32,488.04,Supplier_46,True
+971,Lipstick,Beauty,Mamaearth,511.83,336.77,Supplier_47,False
+972,Cookware Set,Home & Kitchen,Prestige,566.46,451.09,Supplier_36,True
+973,Cookware Set,Home & Kitchen,Prestige,402.66,312.59,Supplier_23,True
+974,Air Fryer,Home & Kitchen,Prestige,464.76,324.24,Supplier_15,True
+975,T-Shirt,Fashion,Nike,377.37,273.82,Supplier_43,True
+976,Cricket Bat,Sports,Nike,360.79,250.33,Supplier_33,True
+977,Pressure Cooker,Home & Kitchen,Hawkins,494.7,360.82,Supplier_25,True
+978,Tablet,Electronics,Sony,289.82,182.16,Supplier_36,True
+979,Sneakers,Fashion,Levi's,531.19,403.81,Supplier_47,False
+980,Lipstick,Beauty,L'Oreal,381.0,302.99,Supplier_20,False
+981,Football,Sports,Nivia,671.08,467.24,Supplier_25,True
+982,Tablet,Electronics,Dell,303.11,213.11,Supplier_46,True
+983,Sneakers,Fashion,Adidas,212.0,151.84,Supplier_20,True
+984,Moisturizer,Beauty,Maybelline,181.99,120.01,Supplier_10,True
+985,Mixer,Home & Kitchen,Hawkins,514.41,330.37,Supplier_27,True
+986,Face Wash,Beauty,L'Oreal,89.77,68.48,Supplier_5,True
+987,Yoga Mat,Sports,Nike,291.48,223.67,Supplier_44,False
+988,Smart Watch,Electronics,Sony,445.57,369.15,Supplier_17,True
+989,Cricket Bat,Sports,Yonex,258.51,166.64,Supplier_9,True
+990,Jacket,Fashion,Nike,271.95,186.97,Supplier_23,True
+991,Air Fryer,Home & Kitchen,Bajaj,397.62,323.08,Supplier_13,True
+992,Smartphone,Electronics,HP,428.17,276.42,Supplier_44,True
+993,Mixer,Home & Kitchen,Bajaj,364.48,271.87,Supplier_10,True
+994,Jacket,Fashion,Zara,268.73,192.78,Supplier_22,True
+995,Smartphone,Electronics,Apple,393.36,256.66,Supplier_36,True
+996,Face Wash,Beauty,Nivea,84.07,67.12,Supplier_2,False
+997,Microwave,Home & Kitchen,Bajaj,107.55,78.12,Supplier_39,True
+998,T-Shirt,Fashion,Puma,467.53,374.79,Supplier_9,True
+999,Jeans,Fashion,Puma,179.66,112.82,Supplier_28,True
+1000,Monitor,Electronics,Samsung,463.79,381.09,Supplier_7,True

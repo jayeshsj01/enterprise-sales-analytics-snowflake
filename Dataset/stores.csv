@@ -1,0 +1,101 @@
+StoreID,StoreName,StoreType,City,State,Region,OpeningDate
+1,Junagadh Store,Supermarket,Junagadh,Delhi,North,2014-05-29
+2,Bardhaman Store,Mall Outlet,Bardhaman,Maharashtra,West,2019-01-28
+3,Kottayam Store,Online Fulfillment Center,Kottayam,Delhi,North,2024-09-24
+4,Davanagere Store,Retail Store,Davanagere,West Bengal,East,2017-06-14
+5,Chinsurah Store,Mall Outlet,Chinsurah,Delhi,North,2017-04-10
+6,Sikar Store,Online Fulfillment Center,Sikar,Delhi,North,2018-12-23
+7,Gudivada Store,Warehouse,Gudivada,West Bengal,East,2016-09-05
+8,Amravati Store,Mall Outlet,Amravati,Karnataka,South,2018-08-15
+9,Pondicherry Store,Supermarket,Pondicherry,West Bengal,East,2021-12-01
+10,Kolkata Store,Supermarket,Kolkata,Maharashtra,West,2023-10-07
+11,Nagaon Store,Warehouse,Nagaon,Delhi,North,2017-03-03
+12,Kadapa Store,Supermarket,Kadapa,Uttar Pradesh,North,2013-12-08
+13,Jaipur Store,Warehouse,Jaipur,Karnataka,South,2025-04-17
+14,Pimpri-Chinchwad Store,Retail Store,Pimpri-Chinchwad,Uttar Pradesh,North,2022-09-27
+15,Ranchi Store,Online Fulfillment Center,Ranchi,Tamil Nadu,South,2020-01-12
+16,Jammu Store,Retail Store,Jammu,Rajasthan,West,2012-08-15
+17,Kurnool Store,Supermarket,Kurnool,Delhi,North,2014-06-25
+18,Jabalpur Store,Retail Store,Jabalpur,Delhi,North,2014-01-26
+19,Belgaum Store,Warehouse,Belgaum,West Bengal,East,2016-11-28
+20,Raiganj Store,Supermarket,Raiganj,Karnataka,South,2012-09-11
+21,Nagaon Store,Supermarket,Nagaon,Karnataka,South,2025-07-24
+22,Kharagpur Store,Online Fulfillment Center,Kharagpur,Delhi,North,2017-11-01
+23,Kamarhati Store,Warehouse,Kamarhati,Maharashtra,West,2013-10-20
+24,Jamalpur Store,Online Fulfillment Center,Jamalpur,West Bengal,East,2012-07-30
+25,Mango Store,Supermarket,Mango,Rajasthan,West,2011-12-21
+26,Ratlam Store,Retail Store,Ratlam,Delhi,North,2012-05-20
+27,Sultan Pur Majra Store,Supermarket,Sultan Pur Majra,Tamil Nadu,South,2018-04-01
+28,Mirzapur Store,Online Fulfillment Center,Mirzapur,Delhi,North,2021-04-29
+29,Sonipat Store,Warehouse,Sonipat,Karnataka,South,2024-03-19
+30,Karawal Nagar Store,Mall Outlet,Karawal Nagar,West Bengal,East,2011-12-26
+31,Tenali Store,Mall Outlet,Tenali,Karnataka,South,2024-09-30
+32,Dindigul Store,Online Fulfillment Center,Dindigul,Tamil Nadu,South,2018-05-08
+33,Ambattur Store,Mall Outlet,Ambattur,West Bengal,East,2012-12-24
+34,Jalna Store,Warehouse,Jalna,Rajasthan,West,2018-05-27
+35,Bhagalpur Store,Retail Store,Bhagalpur,Delhi,North,2016-09-10
+36,Fatehpur Store,Mall Outlet,Fatehpur,Rajasthan,West,2023-02-22
+37,Bhind Store,Warehouse,Bhind,West Bengal,East,2021-04-20
+38,Meerut Store,Online Fulfillment Center,Meerut,West Bengal,East,2020-03-15
+39,Vadodara Store,Retail Store,Vadodara,Karnataka,South,2018-02-09
+40,Haridwar Store,Retail Store,Haridwar,Tamil Nadu,South,2014-01-22
+41,Rajpur Sonarpur Store,Mall Outlet,Rajpur Sonarpur,Tamil Nadu,South,2013-06-23
+42,Gwalior Store,Supermarket,Gwalior,West Bengal,East,2022-10-09
+43,Tiruvottiyur Store,Retail Store,Tiruvottiyur,Rajasthan,West,2014-03-15
+44,Jammu Store,Mall Outlet,Jammu,Karnataka,South,2023-06-13
+45,Warangal Store,Online Fulfillment Center,Warangal,Karnataka,South,2017-03-25
+46,Vellore Store,Warehouse,Vellore,Uttar Pradesh,North,2012-02-26
+47,Tadepalligudem Store,Supermarket,Tadepalligudem,Delhi,North,2017-08-27
+48,Ramgarh Store,Retail Store,Ramgarh,Karnataka,South,2019-10-08
+49,Vellore Store,Retail Store,Vellore,Rajasthan,West,2019-11-15
+50,Aurangabad Store,Retail Store,Aurangabad,Uttar Pradesh,North,2015-03-09
+51,Motihari Store,Warehouse,Motihari,Maharashtra,West,2019-02-28
+52,Jorhat Store,Online Fulfillment Center,Jorhat,Gujarat,West,2011-10-14
+53,Madanapalle Store,Online Fulfillment Center,Madanapalle,West Bengal,East,2017-10-14
+54,Shimla Store,Supermarket,Shimla,Rajasthan,West,2024-12-07
+55,Uluberia Store,Warehouse,Uluberia,West Bengal,East,2014-07-12
+56,Uluberia Store,Mall Outlet,Uluberia,West Bengal,East,2018-04-05
+57,Amaravati Store,Supermarket,Amaravati,Maharashtra,West,2012-01-04
+58,Thrissur Store,Online Fulfillment Center,Thrissur,Delhi,North,2018-08-17
+59,Aligarh Store,Retail Store,Aligarh,Maharashtra,West,2017-01-01
+60,Dehradun Store,Retail Store,Dehradun,Delhi,North,2021-01-19
+61,Gudivada Store,Retail Store,Gudivada,Uttar Pradesh,North,2016-11-28
+62,Kumbakonam Store,Warehouse,Kumbakonam,Gujarat,West,2020-02-27
+63,Panipat Store,Mall Outlet,Panipat,Rajasthan,West,2022-09-19
+64,Ludhiana Store,Warehouse,Ludhiana,West Bengal,East,2023-01-01
+65,Bongaigaon Store,Retail Store,Bongaigaon,West Bengal,East,2016-08-08
+66,Vasai-Virar Store,Supermarket,Vasai-Virar,Uttar Pradesh,North,2014-07-13
+67,Amritsar Store,Warehouse,Amritsar,West Bengal,East,2013-01-08
+68,Ahmedabad Store,Retail Store,Ahmedabad,Delhi,North,2019-09-05
+69,Ghaziabad Store,Retail Store,Ghaziabad,West Bengal,East,2018-03-14
+70,Bhatpara Store,Mall Outlet,Bhatpara,Maharashtra,West,2023-12-29
+71,Guwahati Store,Warehouse,Guwahati,West Bengal,East,2014-10-07
+72,Howrah Store,Warehouse,Howrah,Gujarat,West,2014-12-20
+73,Jalgaon Store,Warehouse,Jalgaon,Maharashtra,West,2017-06-10
+74,Kottayam Store,Online Fulfillment Center,Kottayam,Delhi,North,2022-01-01
+75,Karaikudi Store,Mall Outlet,Karaikudi,Delhi,North,2016-10-27
+76,Anand Store,Warehouse,Anand,Gujarat,West,2016-04-16
+77,Kota Store,Warehouse,Kota,West Bengal,East,2023-07-05
+78,Unnao Store,Warehouse,Unnao,Delhi,North,2013-01-16
+79,Raipur Store,Supermarket,Raipur,Uttar Pradesh,North,2021-03-28
+80,Gandhinagar Store,Warehouse,Gandhinagar,West Bengal,East,2013-07-20
+81,Bhagalpur Store,Mall Outlet,Bhagalpur,West Bengal,East,2024-07-18
+82,Sambhal Store,Retail Store,Sambhal,Karnataka,South,2020-03-15
+83,Jodhpur Store,Retail Store,Jodhpur,Uttar Pradesh,North,2016-12-18
+84,Bokaro Store,Online Fulfillment Center,Bokaro,Uttar Pradesh,North,2020-03-08
+85,Karnal Store,Online Fulfillment Center,Karnal,Maharashtra,West,2017-12-05
+86,Shimla Store,Retail Store,Shimla,Delhi,North,2018-03-21
+87,Thanjavur Store,Warehouse,Thanjavur,Delhi,North,2019-10-20
+88,Korba Store,Online Fulfillment Center,Korba,Delhi,North,2020-02-29
+89,Ambarnath Store,Warehouse,Ambarnath,Delhi,North,2013-06-03
+90,Narasaraopet Store,Mall Outlet,Narasaraopet,Tamil Nadu,South,2015-07-14
+91,Rajkot Store,Supermarket,Rajkot,Karnataka,South,2020-09-11
+92,Gorakhpur Store,Supermarket,Gorakhpur,West Bengal,East,2014-08-10
+93,Shivpuri Store,Retail Store,Shivpuri,West Bengal,East,2013-05-12
+94,Meerut Store,Online Fulfillment Center,Meerut,Uttar Pradesh,North,2017-02-16
+95,Serampore Store,Online Fulfillment Center,Serampore,Delhi,North,2015-07-28
+96,New Delhi Store,Supermarket,New Delhi,Rajasthan,West,2021-10-30
+97,Tiruppur Store,Retail Store,Tiruppur,Gujarat,West,2022-09-03
+98,Mirzapur Store,Supermarket,Mirzapur,Gujarat,West,2019-07-19
+99,Bhiwani Store,Online Fulfillment Center,Bhiwani,Gujarat,West,2024-07-22
+100,Satara Store,Online Fulfillment Center,Satara,Karnataka,South,2016-11-16
